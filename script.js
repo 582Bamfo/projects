@@ -4,5 +4,5 @@ how is github
 version contol system
 AWS
 linux
-k8s and microservice
+k8s
 
