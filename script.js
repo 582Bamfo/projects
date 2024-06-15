@@ -1,5 +1,5 @@
 
-hi there, welcome
+hi there, welcome to git
 how is github
 version contol
 AWS
