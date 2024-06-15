@@ -5,4 +5,5 @@ version contol system
 AWS
 linux
 k8s
+ec2
 
