@@ -4,6 +4,6 @@ how is github
 version contol system
 AWS
 s3
-docker
+terraform
 EC2
 
